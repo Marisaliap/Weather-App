@@ -2,7 +2,7 @@
 
 #### Durante el Bootcamp en Henry creamos una App del clima que permite ver el estado del tiempo hasta en 3 ciudades en tiempo real. El proyecto terminado luce así:
 
-![](./img/Cards_3.png)
+![](./img/Cards_4.png)
 
 ### Creamos una serie de Componentes de React:
 
