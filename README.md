@@ -1,8 +1,6 @@
 ## Weather App
 
-### Ejercicio
-
-En este homework creamos una serie de Componentes de React:
+### En este homework del Bootcamp de Henry creamos una App con una serie de Componentes de React:
 
 #### Weather Card (`components/Card.js`)
 
@@ -23,11 +21,11 @@ Todos estos datos llegan desde una API externa de clima (http://openweathermap.o
 
 Este Componente renderiza muchos Componentes `Cards`. Recibe un arreglo de `ciudades` (con todos sus datos), y crea un componente `Card` por cada ciudad con sus propiedades correspondientes.
 
-![](./img/Cards.png)
+![](./img/Cards_2.png)
 
 #### Barra de búsqueda (`components/SearchBar.js`)
 
 Este componente se utiliza para busca ciudades sobre las cuales se desee ver el clima actual y ejecuta una función `onSearch` cuando se hace click en el botón `Agregar`
 
-![](./img/SearchBar.png)
+![](./img/SearchBar_1.png)
 
