@@ -2,7 +2,7 @@
 
 #### Durante el Bootcamp en Henry creamos una App del clima que permite ver el estado del tiempo hasta en 3 ciudades en tiempo real. 
 
-`Me gustó muchísimo!...` hacer este proyecto - aprendí un montón sobre el funcionamiento de `React` y me encantó el estilo que le dimos utilizando `module.css`.
+💖 `Me gustó muchísimo!...` hacer este proyecto - aprendí un montón sobre el funcionamiento de `React` y me encantó el estilo que le dimos utilizando `module.css`.
 
 #### ⭐️ El proyecto terminado luce así:
 <br>
@@ -31,7 +31,11 @@ Cada componente Card recibe:
 - **img**: nombre de la imagen que se debe mostrar.
 - **onClose**: recibe una función que se ejecuta cuando el usuario hace click en el botón de cerrar.
 
+<br>
+
 Además, cuando el usuario hace click en la X de cerrar, muestra el detalle de esa ciudad en particular y al apretar el botón atrás, muestra todas las ciudades excepto la eliminada.
+
+<br>
 
 ![](./img/Cards_4.png)
 
@@ -60,4 +64,17 @@ También muestra de manera destacada sobre el lado izquierdo el `detalle de la �
 Este componente se utiliza para busca ciudades sobre las cuales se desee ver el clima actual y ejecuta una función `onSearch` cuando se hace click en el botón `Agregar`
 
 ![](./img/SearchBar_1.png)
+
+<br>
+
+---
+
+### 📫 Cómo contactarme:
+
+#### [linkedin]: https://www.linkedin.com/in/marisaliapascal-fullstack/
+
+<br>
+
+--- 
+ 
 
