@@ -1,12 +1,17 @@
 ## Weather App
 
-### En este homework del Bootcamp de Henry creamos una App con una serie de Componentes de React:
+#### Durante el Bootcamp en Henry creamos una App del clima que permite ver el estado del tiempo hasta en 3 ciudades en tiempo real. El proyecto terminado luce así:
+
+![](./img/Cards_3.png)
+
+< br>
+### Creamos una serie de Componentes de React:
 
 #### Weather Card (`components/Card.js`)
 
-Esta tarjeta muestra el nombre de una ciudad, con su temperatura máxima y mínima, y con una imagen que representa el estado del clima (soleado, nublado, etc..), además cuando el usuario hace click en la X de cerrar, se invoca una función que viene como props.
+Esta tarjeta muestra el nombre de una ciudad, con su temperatura máxima y mínima, y con una imagen que representa el estado del clima (soleado, nublado, etc..).
 
-![](./img/Cards_1.png)
+![](./img/WeatherCard_0.png)
 
 Cada componente Card recibe:
 - **max**: Temperatura Máxima.
@@ -16,6 +21,10 @@ Cada componente Card recibe:
 - **onClose**: recibe una función que se ejecuta cuando el usuario hace click en el botón de cerrar.
 
 Todos estos datos llegan desde una API externa de clima (http://openweathermap.org)
+
+Además, cuando el usuario hace click en la X de cerrar, muestra el detalle de esa ciudad en particular y al apretar el botón atrás, me muestra tods las ciudades excepto la eliminada.
+
+![](./img/Cards_4.png)
 
 #### Cards (`components/Cards.js`)
 
