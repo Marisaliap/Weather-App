@@ -37,5 +37,5 @@ Este componente se utiliza para busca ciudades sobre las cuales se desee ver el 
 
 ![](./img/SearchBar_1.png)
 
-`Me gustó muchísimo` hacer este proyecto porque aprendí un montón sobre el funcionamiento de `React` y me encantó el `estilo que le dimos con CSS`.
+`Me gustó muchísimo!...` hacer este proyecto - aprendí un montón sobre el funcionamiento de `React` y me encantó el estilo que le dimos utilizando `module.css`.
 
