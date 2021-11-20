@@ -35,6 +35,8 @@ También muestra de manera destacada sobre el lado izquierdo el `detalle de la �
 
 ![](./img/Cards_7.png)
 
+---
+
 #### Barra de búsqueda (`components/SearchBar.js`)
 
 Este componente se utiliza para busca ciudades sobre las cuales se desee ver el clima actual y ejecuta una función `onSearch` cuando se hace click en el botón `Agregar`
