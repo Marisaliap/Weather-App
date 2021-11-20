@@ -2,7 +2,7 @@
 
 #### Durante el Bootcamp en Henry creamos una App del clima que permite ver el estado del tiempo hasta en 3 ciudades en tiempo real. El proyecto terminado luce así:
 
-![](./img/Cards_3.png)
+![](./img/Cards_5.png)
 
 ### Creamos una serie de Componentes de React:
 
@@ -10,7 +10,7 @@
 
 Esta tarjeta muestra el nombre de una ciudad, con su temperatura máxima y mínima, y con una imagen que representa el estado del clima (soleado, nublado, etc..).
 
-![](./img/WeatherCard_0.png)
+![](./img/WeatherCard_2.png)
 
 Cada componente Card recibe:
 - **max**: Temperatura Máxima.
