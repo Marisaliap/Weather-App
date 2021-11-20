@@ -19,7 +19,7 @@ Cada componente Card recibe:
 - **img**: nombre de la imagen que se debe mostrar.
 - **onClose**: recibe una función que se ejecuta cuando el usuario hace click en el botón de cerrar.
 
-Todos estos datos llegan desde una API externa de clima (http://openweathermap.org)
+#### Todos estos datos llegan desde una API externa de clima (http://openweathermap.org)
 
 Además, cuando el usuario hace click en la X de cerrar, muestra el detalle de esa ciudad en particular y al apretar el botón atrás, me muestra todas las ciudades excepto la eliminada.
 
@@ -37,5 +37,5 @@ Este componente se utiliza para busca ciudades sobre las cuales se desee ver el 
 
 ![](./img/SearchBar_1.png)
 
-Me gustó muchísimo hacer este proyecto porque aprendí un montón sobre el funcionamiento de `React` y me encantó el `estilo que le dimos con CSS`.
+`Me gustó muchísimo` hacer este proyecto porque aprendí un montón sobre el funcionamiento de `React` y me encantó el `estilo que le dimos con CSS`.
 
