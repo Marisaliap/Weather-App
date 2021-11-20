@@ -21,7 +21,7 @@ Cada componente Card recibe:
 
 Todos estos datos llegan desde una API externa de clima (http://openweathermap.org)
 
-Además, cuando el usuario hace click en la X de cerrar, muestra el detalle de esa ciudad en particular y al apretar el botón atrás, me muestra tods las ciudades excepto la eliminada.
+Además, cuando el usuario hace click en la X de cerrar, muestra el detalle de esa ciudad en particular y al apretar el botón atrás, me muestra todas las ciudades excepto la eliminada.
 
 ![](./img/Cards_4.png)
 
@@ -37,5 +37,5 @@ Este componente se utiliza para busca ciudades sobre las cuales se desee ver el 
 
 ![](./img/SearchBar_1.png)
 
-Me gustó muchísimo hacer este proyecto porque aprendí un montón sobre el funcionamiento de React y me encantó el estilo que le dimos usando CSS.
+Me gustó muchísimo hacer este proyecto porque aprendí un montón sobre el funcionamiento de `React` y me encantó el `estilo que le dimos con CSS`.
 
