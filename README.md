@@ -31,6 +31,10 @@ Este Componente renderiza muchos Componentes `Cards`. Recibe un arreglo de `ciud
 
 ![](./img/Cards_2.png)
 
+También muestra de manera destacada sobre el lado izquierdo el `detalle de la última ciudad agregada`; en la siguiente imagen, los datos de la ciudad de Buenos Aires se ven en un mayor tamaño y separados del resto de las ciudades ubicadas sobre el lado derecho de la misma. 
+
+![](./img/Cards_7.png)
+
 #### Barra de búsqueda (`components/SearchBar.js`)
 
 Este componente se utiliza para busca ciudades sobre las cuales se desee ver el clima actual y ejecuta una función `onSearch` cuando se hace click en el botón `Agregar`
