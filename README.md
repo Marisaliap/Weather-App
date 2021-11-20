@@ -21,7 +21,7 @@ Cada componente Card recibe:
 
 #### Todos estos datos llegan desde una API externa de clima (http://openweathermap.org)
 
-Además, cuando el usuario hace click en la X de cerrar, muestra el detalle de esa ciudad en particular y al apretar el botón atrás, me muestra todas las ciudades excepto la eliminada.
+Además, cuando el usuario hace click en la X de cerrar, muestra el detalle de esa ciudad en particular y al apretar el botón atrás, muestra todas las ciudades excepto la eliminada.
 
 ![](./img/Cards_4.png)
 
