@@ -4,7 +4,6 @@
 
 ![](./img/Cards_3.png)
 
-< br>
 ### Creamos una serie de Componentes de React:
 
 #### Weather Card (`components/Card.js`)
@@ -37,4 +36,6 @@ Este Componente renderiza muchos Componentes `Cards`. Recibe un arreglo de `ciud
 Este componente se utiliza para busca ciudades sobre las cuales se desee ver el clima actual y ejecuta una función `onSearch` cuando se hace click en el botón `Agregar`
 
 ![](./img/SearchBar_1.png)
+
+Me gustó muchísimo hacer este proyecto porque aprendí un montón sobre el funcionamiento de React y me encantó el estilo que le dimos usando CSS.
 
